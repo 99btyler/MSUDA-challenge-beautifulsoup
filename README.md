@@ -1,2 +1,2 @@
-# MSUDA-challenge-data-collection
-MSU Data Analytics data-collection-challenge
+# MSUDA-challenge-beautifulsoup
+MSU Data Analytics beautifulsoup-challenge
